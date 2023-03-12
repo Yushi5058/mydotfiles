@@ -5,14 +5,11 @@
 # Contents 
 
 * vim (NeoVim) config
-* tmux config
 * git config
-* bash config
-* kitty term config
 
 # How to use 
 
-Clone this repo then use the command `./install.sh` or by copying the path location of the install.sh file in the .dotfiles repo.
+Clone this repo / or copy these files to your home directory. Don't forget to do a backup before so you can restore your changes.
 
 
 All set, enjoy ! :)
